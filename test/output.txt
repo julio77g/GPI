@@ -1,0 +1,7 @@
+#salida en la consola de acuerdo al requerimiento en PDF
+pish tegj glob glob is 42
+glob prok Silver is 68.0 Credits
+glob prok Gold is 57800.0 Credits
+glob prok Iron is 782.0 Credits
+I have no idea what you are talking about
+PS E:\Desarrollo\GPI\GPI-envio>

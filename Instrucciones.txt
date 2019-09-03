@@ -1,0 +1,18 @@
+Instrucciones
+Esta programa esta desarrollado en python version 3.6.0
+
+Desde la ventana de comandos cmd nos ubicamos dentro de la carpeta main_class_model
+ahi se encuentra el archivo main y para ejecutarlo escribimos main.py
+mostrará el resultado solicitado.
+
+tambien existe una carpeta llamada test, dentro está el archivo de entrada input_1.txt no debemos cambiar de nombre
+caso contrario deberiamos cambiar en el codigo la ruta de este archivo.
+
+adicional se encuentra un archivo output.txt, visualiza el resultado mostrado en la ventana de comandos.
+
+finalmente estan dos capturas de pantalla en donde se visualiza los resultados obtenidos
+
+Nota.- Este programa se realizó con el editor Visual Code, si se quiere compilar en la terminal que incluye este editor
+debemos cambiar la ruta del archivo (../) por (/).
+
+ 
